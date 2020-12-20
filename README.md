@@ -17,13 +17,19 @@ I'm an 18 year old college student who studies application development and makes
 
 A legal mod loader for Discord with a management site using an advanced backend allowing large amounts of traffic on low end systems.
 
+[See it here](https://github.com/Discord-Mod-Loader) (currently private)
+
 ### HTCML
 
 An HTML component parser which allows you to insert functions and values into the HTML during the render process.
 
+[See it here](https://github.com/SMJSGaming/htcml)
+
 ### Geometry Dash 2.2 Unlocked (maintaining)
 
 A Geometry Dash private server which allows you to upload levels using features which from the coming 2.2 update.
+
+[See it here](https://smjs.eu/gd/unlock)
 
 ### Webserver Status Dashboard
 
