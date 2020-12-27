@@ -21,13 +21,13 @@ A legal mod loader for Discord with a management site using an advanced backend 
 
 ### HTCML
 
-An HTML component parser which allows you to insert functions and values into the HTML during the render process.
+A HTML component parser which allows you to insert functions and values into the HTML during the render process.
 
 [See it here](https://github.com/SMJSGaming/htcml)
 
 ### Geometry Dash 2.2 Unlocked (maintaining)
 
-A Geometry Dash private server which allows you to upload levels using features which from the coming 2.2 update.
+A Geometry Dash private server which allows you to upload levels using features from the coming 2.2 update.
 
 [See it here](https://smjs.eu/gd/unlock)
 
