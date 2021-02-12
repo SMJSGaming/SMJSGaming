@@ -13,7 +13,7 @@ I'm an 18 year old college student who studies application development and makes
 
 ## Current Projects
 
-### Discord Mods
+### Discord Mod Loader
 
 A legal mod loader for Discord with a management site using an advanced backend allowing large amounts of traffic on low end systems.
 
@@ -33,11 +33,11 @@ A Geometry Dash private server which allows you to upload levels using features 
 
 ### Webserver Status Dashboard
 
-A dashboard which gives all sorts of info regarding the webserver it's running on. This is a part of Discord Mods.
+A dashboard which gives all sorts of info regarding the webserver it's running on. This is a part of the Discord Mod Loader.
 
 ### NeroDB
 
-A database which uses class based entries for storing complex data with built in functions. This is a part of Discord Mods.
+A database which uses class based entries for storing complex data with built in functions. This is a part of the Discord Mod Loader.
 
 ## Social Media
 
